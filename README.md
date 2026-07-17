@@ -1,109 +1,157 @@
-# Wipro TalentNext - Project Based Learning (PBL)
+# 🌟 Wipro TalentNext – Java Full Stack Development
 
-## 📌 About
+### Hands-on Learning | Coding Exercises | Mini Projects | Java 8
 
-This repository contains my solutions, hands-on assignments, and project implementations completed as part of the **Wipro TalentNext Project Based Learning (PBL)** program. The program focuses on developing industry-ready programming and problem-solving skills through practical assignments and projects. :contentReference[oaicite:0]{index=0}
-
----
-
-## 🎯 Objectives
-
-- Strengthen Core Java programming concepts.
-- Improve problem-solving and logical thinking.
-- Gain hands-on experience with Java collections, streams, exception handling, file handling, and object-oriented programming.
-- Develop industry-oriented coding practices.
+Welcome to my Wipro TalentNext learning repository! This repository showcases my journey through the Java Full Stack Development program, where I completed hands-on assignments, coding challenges, and mini projects to strengthen my programming skills.
 
 ---
 
-## 📚 Topics Covered
+## 📖 About
 
-- Java Fundamentals
-- Object-Oriented Programming (OOP)
-- Arrays & Strings
-- Exception Handling
-- Packages
+This repository contains the work completed during the **Wipro TalentNext Java Full Stack Development Program**. Each module focuses on building practical knowledge through coding exercises and real-world problem-solving.
+
+The goal of this repository is to track my learning progress while developing strong programming fundamentals and industry-ready Java skills.
+
+---
+
+## 🎯 Skills Developed
+
+- ☕ Core Java Programming
+- 🏗️ Object-Oriented Programming (OOP)
+- 📦 Packages & Access Modifiers
+- ⚠️ Exception Handling
+- 📝 Strings & Wrapper Classes
+- 📚 Collections Framework
+- ⚡ Java 8 Features
+- 🔗 Functional Interfaces
+- 🧩 Lambda Expressions
+- 🌊 Stream API
+- 📅 Date & Time API
+- 💡 Problem Solving & Logic Building
+- 🛠️ Mini Project Development
+
+---
+
+## 📚 Modules Covered
+
+### Java Fundamentals
+- Java Basics
+- Variables & Data Types
+- Operators
+- Decision Making
+- Looping Statements
+- Arrays
+- Methods
+
+### Object-Oriented Programming
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
 - Interfaces
+- Packages
+
+### Advanced Java
+- Exception Handling
 - Wrapper Classes
-- Collections Framework
-- Stream API
-- Lambda Expressions
-- Method References
 - File I/O
-- Project-Based Learning Assignments
+- Collections Framework
+  - List
+  - Set
+  - Map
+- Java 8 Features
+  - Functional Interfaces
+  - Lambda Expressions
+  - Method References
+  - Stream API
+  - Optional Class
+  - Date & Time API
 
----
-
-## 🛠️ Technologies Used
-
-- Java
-- JDK 8+
-- Visual Studio Code
-- Command Prompt / PowerShell
-- Git & GitHub
+### Practice
+- Logic Building Assignments
+- Hands-on Exercises
+- Mini Projects
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 Wipro-TalentNext/
 │
-├── Abstraction_Packages_ExceptionHandling/
-├── Interfaces/
+├── Java_Fundamentals/
+├── OOP/
+├── Exception_Handling/
 ├── Wrapper_Classes/
 ├── IO_Streams/
 ├── Collections/
-├── Stream_API/
-├── Lambda_Expressions/
-├── Method_References/
+│   ├── List/
+│   ├── Set/
+│   ├── Map/
+│   ├── Mini_Project_1/
+│   ├── Mini_Project_2/
+│   └── ...
+├── Java8/
+│   ├── Functional_Interface/
+│   ├── Lambda_Expressions/
+│   ├── Method_Reference/
+│   ├── Stream_API/
+│   └── Date_Time_API/
 └── README.md
 ```
 
 ---
 
-## ▶️ How to Run
+## 📊 Learning Progress
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Wipro-TalentNext.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd Wipro-TalentNext
-```
-
-3. Compile the Java file
-
-```bash
-javac FileName.java
-```
-
-4. Run the program
-
-```bash
-java FileName
-```
+| Module | Status |
+|---------|--------|
+| Java Fundamentals | ✅ Completed |
+| Logic Building | ✅ Completed |
+| Object-Oriented Programming | ✅ Completed |
+| Packages | ✅ Completed |
+| Exception Handling | ✅ Completed |
+| Wrapper Classes | ✅ Completed |
+| Collections Framework | ✅ Completed |
+| Functional Interfaces | ✅ Completed |
+| Lambda Expressions | ✅ Completed |
+| Method References | ✅ Completed |
+| Stream API | ✅ Completed |
+| Date & Time API | ✅ Completed |
+| Hands-on Assignments | ✅ Completed |
+| Mini Projects | ✅ Completed |
 
 ---
 
-## 🎓 Learning Outcomes
+## 🛠️ Tools & Technologies
 
-- Practical understanding of Java programming.
-- Experience with object-oriented design principles.
-- Improved coding standards and debugging skills.
-- Better understanding of Java Collections and Stream API.
-- Exposure to project-based software development.
+- Java
+- JDK 8
+- Eclipse IDE
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 
-## 📖 Program
+## 🚀 Highlights
 
-**Wipro TalentNext – Project Based Learning (PBL)**
+✔ Completed multiple hands-on coding assignments
 
-The TalentNext program is designed to enhance students' technical skills through structured learning, coding assignments, milestone assessments, and project-based implementation. :contentReference[oaicite:1]{index=1}
+✔ Implemented Java mini projects
+
+✔ Practiced real-world programming problems
+
+✔ Strengthened object-oriented programming concepts
+
+✔ Gained experience with Java 8 features and Collections Framework
+
+---
+
+## 🎯 Purpose
+
+This repository serves as a record of my learning journey in Java Full Stack Development. It reflects my continuous practice, problem-solving approach, and commitment to improving my software development skills through practical implementation.
 
 ---
 
@@ -111,11 +159,12 @@ The TalentNext program is designed to enhance students' technical skills through
 
 **Dasari Srividya**
 
-- Final Year Computer Science Student
-- Interested in Java, Cybersecurity, and Software Development
+Final-Year Computer Science Student
+
+Interested in Java Development, Cybersecurity, and Software Engineering.
 
 ---
 
-## ⭐ Acknowledgement
+## ⭐ Thank You
 
-Special thanks to **Wipro TalentNext** for providing industry-oriented training, hands-on assignments, and project-based learning opportunities that helped strengthen my programming and software development skills.
+Thank you for visiting my repository! Feel free to explore the code, assignments, and mini projects. Feedback and suggestions are always welcome.
