@@ -1,50 +1,70 @@
-# 🌟 Wipro TalentNext – Java Full Stack Development
+<div align="center">
 
-### Hands-on Learning | Coding Exercises | Mini Projects | Java 8
+# ☕ Wipro TalentNext – Java Full Stack Development
 
-Welcome to my Wipro TalentNext learning repository! This repository showcases my journey through the Java Full Stack Development program, where I completed hands-on assignments, coding challenges, and mini projects to strengthen my programming skills.
+### Learning Journey • Hands-on Assignments • Mini Projects • Java 8
+
+<p>
+<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Wipro-TalentNext-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/OOP-Concepts-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Collections-Framework-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java%208-Features-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hands--On-Assignments-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mini-Projects-orange?style=flat-square"/>
+</p>
+
+</div>
 
 ---
 
-## 📖 About
+# 📖 About
 
-This repository contains the work completed during the **Wipro TalentNext Java Full Stack Development Program**. Each module focuses on building practical knowledge through coding exercises and real-world problem-solving.
+This repository showcases my learning journey through the **Wipro TalentNext Java Full Stack Development Program**.
 
-The goal of this repository is to track my learning progress while developing strong programming fundamentals and industry-ready Java skills.
+It includes all the hands-on assignments, coding exercises, logic-building problems, Java 8 implementations, and mini projects completed during the program.
+
+The purpose of this repository is to strengthen my Java programming skills through practical implementation and to document my progress as I learn industry-standard development practices.
 
 ---
 
-## 🎯 Skills Developed
+# 🎯 Key Learning Areas
 
 - ☕ Core Java Programming
+- 🧠 Logic Building & Problem Solving
 - 🏗️ Object-Oriented Programming (OOP)
 - 📦 Packages & Access Modifiers
 - ⚠️ Exception Handling
 - 📝 Strings & Wrapper Classes
+- 📂 File I/O
 - 📚 Collections Framework
 - ⚡ Java 8 Features
 - 🔗 Functional Interfaces
 - 🧩 Lambda Expressions
 - 🌊 Stream API
 - 📅 Date & Time API
-- 💡 Problem Solving & Logic Building
-- 🛠️ Mini Project Development
+- 💻 Mini Project Development
 
 ---
 
-## 📚 Modules Covered
+# 📚 Topics Covered
 
-### Java Fundamentals
-- Java Basics
+## Java Fundamentals
+
 - Variables & Data Types
 - Operators
-- Decision Making
-- Looping Statements
+- Control Statements
 - Arrays
 - Methods
-
-### Object-Oriented Programming
 - Classes & Objects
+
+## Object-Oriented Programming
+
 - Constructors
 - Inheritance
 - Polymorphism
@@ -52,67 +72,86 @@ The goal of this repository is to track my learning progress while developing st
 - Interfaces
 - Packages
 
-### Advanced Java
+## Advanced Java
+
 - Exception Handling
 - Wrapper Classes
-- File I/O
+- File Handling
 - Collections Framework
   - List
   - Set
   - Map
-- Java 8 Features
-  - Functional Interfaces
-  - Lambda Expressions
-  - Method References
-  - Stream API
-  - Optional Class
-  - Date & Time API
 
-### Practice
-- Logic Building Assignments
-- Hands-on Exercises
+## Java 8 Features
+
+- Functional Interfaces
+- Lambda Expressions
+- Method References
+- Stream API
+- Optional Class
+- Date & Time API
+
+## Practice
+
+- Logic Building Exercises
+- Hands-on Assignments
 - Mini Projects
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 Wipro-TalentNext/
 │
 ├── Java_Fundamentals/
-├── OOP/
+│
+├── Logic_Building/
+│
+├── OOPS/
+│
+├── Packages/
+│
 ├── Exception_Handling/
+│
 ├── Wrapper_Classes/
+│
 ├── IO_Streams/
+│
 ├── Collections/
 │   ├── List/
 │   ├── Set/
 │   ├── Map/
 │   ├── Mini_Project_1/
 │   ├── Mini_Project_2/
-│   └── ...
+│   ├── Mini_Project_3/
+│   ├── Mini_Project_4/
+│   └── Mini_Project_5/
+│
 ├── Java8/
 │   ├── Functional_Interface/
 │   ├── Lambda_Expressions/
 │   ├── Method_Reference/
 │   ├── Stream_API/
-│   └── Date_Time_API/
+│   ├── Date_Time_API/
+│   └── Optional_Class/
+│
 └── README.md
 ```
 
 ---
 
-## 📊 Learning Progress
+# 📈 Learning Progress
 
 | Module | Status |
-|---------|--------|
+|---------|:------:|
 | Java Fundamentals | ✅ Completed |
 | Logic Building | ✅ Completed |
 | Object-Oriented Programming | ✅ Completed |
 | Packages | ✅ Completed |
 | Exception Handling | ✅ Completed |
 | Wrapper Classes | ✅ Completed |
+| File I/O | ✅ Completed |
 | Collections Framework | ✅ Completed |
 | Functional Interfaces | ✅ Completed |
 | Lambda Expressions | ✅ Completed |
@@ -124,47 +163,58 @@ Wipro-TalentNext/
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Technologies Used
 
-- Java
-- JDK 8
-- Eclipse IDE
-- Visual Studio Code
-- Git
-- GitHub
-
----
-
-## 🚀 Highlights
-
-✔ Completed multiple hands-on coding assignments
-
-✔ Implemented Java mini projects
-
-✔ Practiced real-world programming problems
-
-✔ Strengthened object-oriented programming concepts
-
-✔ Gained experience with Java 8 features and Collections Framework
+| Technology | Description |
+|------------|-------------|
+| ☕ Java | Programming Language |
+| 💻 Eclipse IDE | Development Environment |
+| 🖥️ VS Code | Code Editor |
+| 🌿 Git | Version Control |
+| 🐙 GitHub | Repository Hosting |
 
 ---
 
-## 🎯 Purpose
+# 🚀 Repository Highlights
 
-This repository serves as a record of my learning journey in Java Full Stack Development. It reflects my continuous practice, problem-solving approach, and commitment to improving my software development skills through practical implementation.
+✅ Java Fundamentals Practice
+
+✅ Object-Oriented Programming Concepts
+
+✅ Exception Handling Exercises
+
+✅ Collections Framework Programs
+
+✅ Java 8 Features
+
+✅ Hands-on Assignments
+
+✅ Logic Building Problems
+
+✅ Mini Projects
 
 ---
 
-## 👩‍💻 Author
+# 🎯 Objective
+
+The primary objective of this repository is to document my progress throughout the **Wipro TalentNext Java Full Stack Development Program** while building strong programming fundamentals through continuous practice, coding assignments, and project-based learning.
+
+---
+
+# 👩‍💻 Author
 
 **Dasari Srividya**
 
-Final-Year Computer Science Student
+🎓 Final-Year Computer Science Student
 
-Interested in Java Development, Cybersecurity, and Software Engineering.
+💡 Interested in Java Development, Cybersecurity, and Software Engineering
 
 ---
 
-## ⭐ Thank You
+<div align="center">
 
-Thank you for visiting my repository! Feel free to explore the code, assignments, and mini projects. Feedback and suggestions are always welcome.
+### ⭐ If you find this repository helpful, don't forget to Star ⭐ it!
+
+**Happy Coding! 🚀**
+
+</div>
